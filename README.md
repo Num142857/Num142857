@@ -11,15 +11,14 @@
 
 ## Hello Alili 
 <a href="https://alili.tech"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
-- 🎓  [微前端系列](https://alili.tech/tags/microfrontend/)
-- 🌱  [Taro系列](https://alili.tech/tags/taro/)
-- 🐧  [树莓派系列](https://alili.tech/tags/raspberry-pi/)
-- 🐧  [Nodejs系列](https://alili.tech/tags/nodejs/)
-- 🐧  [持续集成系列](https://alili.tech/tags/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90/)
-- 🐧  [数学系列](https://alili.tech/tags/%E6%95%B0%E5%AD%A6/)
-- 🐧  [puppeteer系列](https://alili.tech/tags/puppeteer/)
-- 🐧  [javascript相关](https://alili.tech/tags/javascript/)
-
+- 👨🏻‍💻  [微前端系列](https://alili.tech/tags/microfrontend/)
+- 👩🏻‍💻  [Taro系列](https://alili.tech/tags/taro/)
+- 👨🏻‍💻  [树莓派系列](https://alili.tech/tags/raspberry-pi/)
+- 👩🏻‍💻  [Nodejs系列](https://alili.tech/tags/nodejs/)
+- 👨🏻‍💻  [持续集成系列](https://alili.tech/tags/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90/)
+- 👩🏻‍💻  [数学系列](https://alili.tech/tags/%E6%95%B0%E5%AD%A6/)
+- 👨🏻‍💻  [puppeteer系列](https://alili.tech/tags/puppeteer/)
+- 👩🏻‍💻  [javascript相关](https://alili.tech/tags/javascript/)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=alili.tech&url=https%3a%2f%2falili.tech)](https://alili.tech)
@@ -37,3 +36,7 @@
 
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Stylus](https://img.shields.io/badge/-Stylus-%23333333?style=flat-square&logo=stylus)
+
+[![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
+[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
+[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
