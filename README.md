@@ -22,6 +22,11 @@
 - 👨🏻‍💻  [Mac系列](https://alili.tech/tags/mac/)
 - 👩🏻‍💻  [Angular相关](https://alili.tech/tags/angular/)
 
+<p align="left">
+<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=Fantasy9527&show_icons=true&include_all_commits=true">
+<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fantasy9527">
+</p>
+
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
