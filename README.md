@@ -19,6 +19,9 @@
 - 👩🏻‍💻  [数学系列](https://alili.tech/tags/%E6%95%B0%E5%AD%A6/)
 - 👨🏻‍💻  [Puppeteer系列](https://alili.tech/tags/puppeteer/)
 - 👩🏻‍💻  [Javascript相关](https://alili.tech/tags/javascript/)
+- 👨🏻‍💻  [Mac系列](https://alili.tech/tags/mac/)
+- 👩🏻‍💻  [Angular相关](https://alili.tech/tags/angular/)
+
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=alili.tech&url=https%3a%2f%2falili.tech)](https://alili.tech)
