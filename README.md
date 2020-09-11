@@ -18,7 +18,7 @@
 - 👨🏻‍💻  [树莓派系列](https://alili.tech/tags/raspberry-pi/)
 - 👩🏻‍💻  [Nodejs系列](https://alili.tech/tags/nodejs/)
 - 👨🏻‍💻  [持续集成系列](https://alili.tech/tags/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90/)
-- 👩🏻‍💻  [数学系列](https://alili.tech/tags/%E6%95%B0%E5%AD%A6/)
+- 👩🏻‍💻  [数学笔记](https://alili.tech/tags/%E6%95%B0%E5%AD%A6/)
 - 👨🏻‍💻  [Puppeteer系列](https://alili.tech/tags/puppeteer/)
 - 👩🏻‍💻  [Javascript相关](https://alili.tech/tags/javascript/)
 - 👨🏻‍💻  [Mac系列](https://alili.tech/tags/mac/)
