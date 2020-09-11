@@ -8,10 +8,8 @@
   <strong><a href="https://www.zhihu.com/people/fantastics/posts">知乎</a></strong> |
   <strong><a href="https://juejin.im/user/606586147454599">掘金</a></strong>  |
   <strong><a href="https://alili.tech/about/">About</a></strong>  
-
-  
 </p>
-
+<p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/Fantasy9527/count.svg" />
 
 ##  [Welcome To Hello Alili](https://alili.tech)
 <a href="https://alili.tech"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
