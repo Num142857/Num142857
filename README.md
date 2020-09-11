@@ -24,7 +24,6 @@
 - 👨🏻‍💻  [Mac系列](https://alili.tech/tags/mac/)
 - 👩🏻‍💻  [Angular相关](https://alili.tech/tags/angular/)
 
-![image](https://user-images.githubusercontent.com/9129438/92961979-c843fe80-f4a2-11ea-9007-d000ae3093e3.png)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
@@ -70,3 +69,8 @@
 <img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=Fantasy9527&show_icons=true&include_all_commits=true">
 <img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fantasy9527">
 </p>
+
+****
+
+
+![image](https://user-images.githubusercontent.com/9129438/92961979-c843fe80-f4a2-11ea-9007-d000ae3093e3.png)
