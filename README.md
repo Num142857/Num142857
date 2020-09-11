@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm <a href="https://alili.tech/">{F.A.N}</a>!</h1>
-<h1 align="center">a 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕  </h1>
+<h1 align="center">a 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓  </h1>
 
 
 <p align="center">
