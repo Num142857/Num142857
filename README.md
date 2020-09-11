@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm <a href="https://alili.tech/">{F.A.N}</a>!</h1>
-<h1 align="center">Welcome to my GitHub profile, 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕  </h1>
+<h1 align="center">Welcome to my GitHub profile,I'm a 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕  </h1>
 
 
 <p align="center">
@@ -8,10 +8,21 @@
   <strong><a href="https://juejin.im/user/606586147454599">Juejin</a></strong> 
 </p>
 
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=alili.tech&url=https%3a%2f%2falili.tech)](https://alili.tech)
+
+## Hello Alili 
+<a href="https://alili.tech"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
+- 🎓  [微前端系列](https://alili.tech/tags/microfrontend/)
+- 🌱  [Taro系列](https://alili.tech/tags/taro/)
+- 🐧  [树莓派系列](https://alili.tech/tags/raspberry-pi/)
+- 🐧  [Nodejs系列](https://alili.tech/tags/nodejs/)
+- 🐧  [持续集成系列](https://alili.tech/tags/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90/)
+- 🐧  [数学系列](https://alili.tech/tags/%E6%95%B0%E5%AD%A6/)
+- 🐧  [puppeteer系列](https://alili.tech/tags/puppeteer/)
+- 🐧  [javascript相关](https://alili.tech/tags/javascript/)
+
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
-
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=alili.tech&url=https%3a%2f%2falili.tech)](https://alili.tech)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
