@@ -4,9 +4,9 @@
 
 
 <p align="center">
-  <strong><a href="https://alili.tech">博客</a></strong> |
-  <strong><a href="https://www.zhihu.com/people/fantastics/posts">知乎</a></strong> |
-  <strong><a href="https://juejin.im/user/606586147454599">掘金</a></strong>  |
+  <strong><a href="https://alili.tech">Blog</a></strong> |
+  <strong><a href="https://www.zhihu.com/people/fantastics/posts">Zhihu</a></strong> |
+  <strong><a href="https://juejin.im/user/606586147454599">Juejin</a></strong>  |
   <strong><a href="https://alili.tech/about/">About</a></strong>  
 </p>
 <a href="https://alili.tech"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/Fantasy9527/count.svg" /></a>
@@ -14,15 +14,15 @@
 ##  [Welcome To Hello Alili](https://alili.tech)
 <a href="https://alili.tech"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
 - 👨🏻‍💻  [微前端系列](https://alili.tech/tags/microfrontend/)
-- 👩🏻‍💻  [Taro系列](https://alili.tech/tags/taro/)
-- 👨🏻‍💻  [树莓派系列](https://alili.tech/tags/raspberry-pi/)
-- 👩🏻‍💻  [Nodejs系列](https://alili.tech/tags/nodejs/)
-- 👨🏻‍💻  [持续集成系列](https://alili.tech/tags/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90/)
-- 👩🏻‍💻  [数学笔记](https://alili.tech/tags/%E6%95%B0%E5%AD%A6/)
-- 👨🏻‍💻  [Puppeteer系列](https://alili.tech/tags/puppeteer/)
-- 👩🏻‍💻  [Javascript相关](https://alili.tech/tags/javascript/)
-- 👨🏻‍💻  [Mac系列](https://alili.tech/tags/mac/)
-- 👩🏻‍💻  [Angular相关](https://alili.tech/tags/angular/)
+- 👩🏻‍💻  [Taro](https://alili.tech/tags/taro/)
+- 👨🏻‍💻  [Raspberry Pi](https://alili.tech/tags/raspberry-pi/)
+- 👩🏻‍💻  [Nodejs](https://alili.tech/tags/nodejs/)
+- 👨🏻‍💻  [CI&CD](https://alili.tech/tags/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90/)
+- 👩🏻‍💻  [Math](https://alili.tech/tags/%E6%95%B0%E5%AD%A6/)
+- 👨🏻‍💻  [Puppeteer](https://alili.tech/tags/puppeteer/)
+- 👩🏻‍💻  [Javascript](https://alili.tech/tags/javascript/)
+- 👨🏻‍💻  [Mac OS](https://alili.tech/tags/mac/)
+- 👩🏻‍💻  [Angular](https://alili.tech/tags/angular/)
 
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
@@ -72,8 +72,6 @@
 
 ****
 ## 微信公众号
-
-关注获取海量学习资料.
 
 ![图 1](https://incomparable9527.coding.net/p/imageBed/d/imageBed/git/raw/master/e73110bce06db5cc2c08cf51551bd6093d5309560ac46ae02695959c80abec4e.png?tt=22)  
 
