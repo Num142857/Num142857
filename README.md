@@ -1,6 +1,6 @@
 
 <h1 align="center">𝑯𝒊, 𝑰'𝒎<a href="https://alili.tech/">{𝑭.𝑨.𝑵}</a>!</h1>
-<h1 align="center">a 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓  </h1>
+<h1 align="center">𝒂 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓  </h1>
 
 
 <p align="center">
@@ -25,7 +25,7 @@
 - 👩🏻‍💻  [𝑨𝒏𝒈𝒖𝒍𝒂𝒓](https://alili.tech/tags/angular/)
 
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## 𝑴𝒚 𝑻𝒆𝒄𝒌 𝑺𝒕𝒂𝒄𝒌
 
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
