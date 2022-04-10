@@ -9,7 +9,7 @@
   <strong><a href="https://juejin.im/user/606586147454599">𝑱𝒖𝒆𝒋𝒊𝒏</a></strong>  |
   <strong><a href="https://alili.tech/about/">𝑨𝒃𝒐𝒖𝒕</a></strong>  
 </p>
-<a href="https://alili.tech"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/Fantasy9527/count.svg" /></a>
+<a href="https://alili.tech"><p align="center">𝑽𝒊𝒔𝒊𝒕𝒐𝒓 𝒄𝒐𝒖𝒏𝒕<br> <img src="https://profile-counter.glitch.me/Fantasy9527/count.svg" /></a>
 
 ##  [𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝑻𝒐 𝑯𝒆𝒓𝒆](https://alili.tech)
 <a href="https://alili.tech"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
