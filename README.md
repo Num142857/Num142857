@@ -11,7 +11,7 @@
 </p>
 <a href="https://alili.tech"><p align="center">𝑽𝒊𝒔𝒊𝒕𝒐𝒓 𝒄𝒐𝒖𝒏𝒕<br> <img src="https://profile-counter.glitch.me/Fantasy9527/count.svg" /></a>
 
-##  [𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝑻𝒐 𝑯𝒆𝒓𝒆](https://alili.tech)
+##  [BLOG](https://alili.tech)
 <a href="https://alili.tech"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
 - 👨🏻‍💻  [𝑴𝒊𝒄𝒓𝒐 𝑭𝒓𝒐𝒏𝒕𝒆𝒏𝒅](https://alili.tech/tags/microfrontend/)
 - 👩🏻‍💻  [𝑻𝒂𝒓𝒐](https://alili.tech/tags/taro/)
